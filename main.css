@@ -11,7 +11,6 @@
     text-align: center;
 }
 
-
 #product-overview h1 {
     color:white;
     font-family: "Anton",sans-serif;
@@ -54,7 +53,6 @@
 .plan__price {
     color: #858585;
 }
-
 
 .plan--highlighted .plan__title {
     color: white;
